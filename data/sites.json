@@ -7,7 +7,12 @@
                 "icon": "./assets/icon.ico",
                 "url": "https://WWW.WenTianPlay.com/",
                 "describe": "文天玩WenTian Play | 官方导航网站🐍 -文天玩网络科技有限公司"
-            },
+            }
+        ]
+    },
+    "官方网站导航": {
+        "icon": "",
+        "data": [
             {
                 "name": "国际站",
                 "icon": "./assets/icon.ico",
@@ -28,7 +33,7 @@
            }
         ]
     },
-    "官方个人导航": {
+    "官方邮箱导航": {
         "icon": "",
         "data": [
             {
@@ -63,12 +68,29 @@
             }
         ]
     },
-    "我的世界攻略教程": {
+    "官方QQ交流群": {
+        "icon": "",
+        "data": [
+            {
+                "name": "文天星辰-风云天下",
+                "icon": "wentianplay.com/assets/siteIcons/mail_QQ.png",
+                "url": "https://qm.qq.com/cgi-bin/qm/qr?authKey=B%2BPsNtTtO%2FdqAslcBwF30TojYYc0uL1KWte5T7hmzGDvd6lRBLOXhSKSqbxrF%2BvL&k=pbE1q-voxeRJ5gF_E4GppDfHOIbzEOSF&noverify=0",
+                "describe": "[001]粉丝群(兼《天彬》官方交流群)"
+            },
+            {
+                "name": "文天星辰-星辰曙光",
+                "icon": "wentianplay.com/assets/siteIcons/163.png",
+                "url": "https://qm.qq.com/cgi-bin/qm/qr?authKey=g7EComNgxqkpa%2BnUJ6oRUmuzAzAQB%2BkeSXJCCNGoM2GOJzf5Ek%2BU9CVFHbjTJf6I&k=fqDhuSIER1LAvfchGKqhdZqUeII77dHp&noverify=0",
+                "describe": "[002]粉丝群(兼《天彬》官方交流群)"
+            }
+        ]
+    },
+    "全职攻略教程": {
         "icon": "",
         "data": [
             {
             
-                "name": "基础入门篇",
+                "name": "我的世界1.0",
                 "icon": "./assets/siteIcons/mc.png",
                 "url": "https://b23.tv/MUO6QBW",
                 "describe": "【【苏天彬】《我的世界》攻略教程-基础入门篇-哔哩哔哩】 "
