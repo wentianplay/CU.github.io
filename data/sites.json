@@ -144,10 +144,22 @@
                 "describe": "Telegram-天彬"
             },
             {
+                "name": "Telegram-文天玩《天彬》",
+                "icon": "./assets/siteIcons/Telegram.png",
+                "url": "https://t.me/WenTianPlayCOM",
+                "describe": "Telegram-文天玩《天彬》"
+            },
+            {
                 "name": "Telegram-文天星辰",
                 "icon": "./assets/siteIcons/Telegram.png",
                 "url": "https://t.me/+OPqGDCX0LTtlZjg9",
                 "describe": "Telegram-文天星辰"
+            },
+            {
+                "name": "Telegram-天彬星辰",
+                "icon": "./assets/siteIcons/Telegram.png",
+                "url": "https://t.me/+mC6CcjUXGVozY2Jl",
+                "describe": "Telegram-天彬星辰"
             }
         ]
     },
