@@ -160,6 +160,36 @@
                 "icon": "./assets/siteIcons/Telegram.png",
                 "url": "https://t.me/+mC6CcjUXGVozY2Jl",
                 "describe": "Telegram-天彬星辰"
+            },
+            {
+                "name": "Telegram-创世纪元",
+                "icon": "./assets/siteIcons/Telegram.png",
+                "url": "https://t.me/WenTianPlayCN",
+                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
+            },
+            {
+                "name": "Telegram-远古纪元",
+                "icon": "./assets/siteIcons/Telegram.png",
+                "url": "https://t.me/WenTianPlayNET",
+                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
+            },
+            {
+                "name": "Telegram-风云天下",
+                "icon": "./assets/siteIcons/Telegram.png",
+                "url": "https://t.me/WenTianPlayTB",
+                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
+            },
+            {
+                "name": "Telegram-星辰曙光",
+                "icon": "./assets/siteIcons/Telegram.png",
+                "url": "https://t.me/WenTianPlayETB",
+                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
+            },
+            {
+                "name": "Telegram-探险之旅",
+                "icon": "./assets/siteIcons/Telegram.png",
+                "url": "https://t.me/WenTianPlayWTP",
+                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
             }
         ]
     },
