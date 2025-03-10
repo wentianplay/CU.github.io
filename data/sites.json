@@ -118,85 +118,25 @@
                 "icon": "./assets/siteIcons/Discord.png",
                 "url": "https://discord.gg/CwJqM27Nb7",
                 "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。它适用于 Windows、macOS、Linux、iOS 和 Android 设备。该应用程序是免费的，安全性高，既能在台式电脑上使用，也能在手机上使用。今天就从 Google Playstore 或 Apple App Store 等受信任的来源下载最好的通过视频、语音沟通这种的话。"
-            },
-            {
-                "name": "Telegram-文天玩WenTianPlay 频道",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/WenTianPlayOnline",
-                "describe": "Telegram-文天玩WenTianPlay 频道"
-            },
-            {
-                "name": "Telegram-文天玩WenTianPlay 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/+jAWXxIqU3oc5NjQ1",
-                "describe": "Telegram-文天玩WenTianPlay"
-            },
-            {
-                "name": "Telegram-文天玩 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/+tYFH6ttAvjM0MzE1",
-                "describe": "Telegram-文天玩"
-            },
-            {
-                "name": "Telegram-WenTianPlay 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/+PQL6qxRbBv8wYTZl",
-                "describe": "Telegram-WenTianPlay"
-            },
-            {
-                "name": "Telegram-天彬 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/+QPNTypMYbJ5mMGM1",
-                "describe": "Telegram-天彬"
-            },
-            {
-                "name": "Telegram-文天玩《天彬》 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/WenTianPlayCOM",
-                "describe": "Telegram-文天玩《天彬》"
-            },
-            {
-                "name": "Telegram-文天星辰 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/+OPqGDCX0LTtlZjg9",
-                "describe": "Telegram-文天星辰"
-            },
-            {
-                "name": "Telegram-天彬星辰 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/+mC6CcjUXGVozY2Jl",
-                "describe": "Telegram-天彬星辰"
-            },
-            {
-                "name": "Telegram-创世纪元 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/WenTianPlayCN",
-                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
-            },
-            {
-                "name": "Telegram-远古纪元 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/WenTianPlayNET",
-                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
-            },
-            {
-                "name": "Telegram-风云天下 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/WenTianPlayTB",
-                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
-            },
-            {
-                "name": "Telegram-星辰曙光 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/WenTianPlayETB",
-                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
-            },
-            {
-                "name": "Telegram-探险之旅 群组",
-                "icon": "./assets/siteIcons/Telegram.png",
-                "url": "https://t.me/WenTianPlayWTP",
-                "describe": "[Telegram]粉丝群(兼《天彬》官方交流群)"
-            }
+           ​            }, 
+ ​            { 
+ ​                ​"name"​: ​"​Telegram-文天玩WenTianPlay 频道"​, 
+ ​                ​"icon"​: ​"​./assets/siteIcons/Telegram.png​"​, 
+ ​                ​"url"​: ​"​https://t.me/WenTianPlay_COM"​, 
+ ​                ​"describe"​: ​"​Telegram-文天玩WenTianPlay​ 频道" 
+ ​            }, 
+ ​            { 
+ ​                ​"name"​: ​"​Telegram-文天玩WenTianPlay 群组​"​, 
+ ​                ​"icon"​: ​"​./assets/siteIcons/Telegram.png​"​, 
+ ​                ​"url"​: ​"​https://t.me/WenTianPlay_NET"​, 
+ ​                ​"describe"​: ​"​Telegram-文天玩WenTianPlay​ 群组" 
+ ​            }, 
+ ​            { 
+ ​                ​"name"​: ​"​Telegram-文天玩 群组​"​, 
+ ​                ​"icon"​: ​"​./assets/siteIcons/Telegram.png​"​, 
+ ​                ​"url"​: ​"​https://t.me/WenTianPlay_CN"​, 
+ ​                ​"describe"​: ​"​Telegram-文天玩​ 群组"  
+             }
         ]
     },
     "全职攻略教程兼投稿": {
