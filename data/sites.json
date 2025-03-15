@@ -1,5 +1,5 @@
 {
-    "官方网站": {
+    "官方网站导航": {
         "icon": "",
         "data": [
             {
@@ -34,7 +34,7 @@
            }
         ]
     },
-    "官方邮箱": {
+    "官方邮箱直通": {
         "icon": "",
         "data": [
             {
@@ -69,11 +69,11 @@
             }
         ]
     },
-    "官方频道": {
+    "官方媒体频道": {
         "icon": "",
         "data": [
             {
-                "name": "哔哩哔哩中国版",
+                "name": "哔哩哔哩中国版 媒体",
                 "icon": "./assets/siteIcons/bilibili.png",
                 "url": "https://bilibili.WenTianPlay.com",
                 "describe": "苏天彬 bilibili.com"
@@ -91,7 +91,7 @@
                 "describe": "Discord 天彬"
             },
             {
-                "name": "Telegram 文天玩WenTianPlay",
+                "name": "Telegram 文天玩WenTianPlay 频道",
                 "icon": "./assets/siteIcons/Telegram.png",
                 "url": "https://TG.WenTianPlay.COM",
                 "describe": "Telegram 文天玩WenTianPlay"
