@@ -120,10 +120,10 @@
                 "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。它适用于 Windows、macOS、Linux、iOS 和 Android 设备。该应用程序是免费的，安全性高，既能在台式电脑上使用，也能在手机上使用。今天就从 Google Playstore 或 Apple App Store 等受信任的来源下载最好的通过视频、语音沟通这种的话。"
             }, 
  ​           { 
- ​                ​"name"​: ​"​Telegram-文天玩WenTianPlay"​, 
+ ​                ​"name"​: ​"​文天玩WenTianPlay"​, 
  ​                ​"icon"​: ​"​./assets/siteIcons/Telegram.png​"​, 
  ​                ​"url"​: ​"​https://TG.WenTianPlay.COM"​, 
- ​                ​"describe"​: ​"Telegram-​文天玩WenTianPlay​" 
+ ​                ​"describe"​: ​"​文天玩WenTianPlay​" 
             }
         ]
     },
