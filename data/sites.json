@@ -79,6 +79,30 @@
                 "describe": "苏天彬 bilibili.com"
             },
             {
+                "name": "哔哩哔哩国际版 媒体",
+                "icon": "./assets/siteIcons/bilibili.png",
+                "url": "https://www.bilibili.tv/en/space/2095553040",
+                "describe": "苏天彬 bilibili.tv"
+            },
+            {
+                "name": "YouTube 媒体",
+                "icon": "./assets/siteIcons/YouTube.png",
+                "url": "https://www.youtube.com/@WenTianPlay",
+                "describe": "苏天彬 YouTube.com"
+            },
+            {
+                "name": "X 媒体",
+                "icon": "./assets/siteIcons/X.png",
+                "url": "https://x.com/WenTianPlay",
+                "describe": "苏天彬 X.COM"
+            },
+            {
+                "name": "facebook 媒体",
+                "icon": "./assets/siteIcons/facebook.png",
+                "url": "https://www.facebook.com/profile.php?id=61574428552177",
+                "describe": "苏天彬 facebook.COM"
+            },
+            {
                 "name": "KOOK-天彬 频道",
                 "icon": "./assets/siteIcons/kook.png",
                 "url": "https://www.kookapp.cn/app/invite/6GcFWj",
