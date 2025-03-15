@@ -97,6 +97,12 @@
                 "describe": "苏天彬 X.COM"
             },
             {
+                "name": "微博 媒体",
+                "icon": "./assets/siteIcons/weibo.png",
+                "url": "https://weibo.com/u/7900350949",
+                "describe": "苏天彬 weibo.COM"
+            },
+            {
                 "name": "facebook 媒体",
                 "icon": "./assets/siteIcons/facebook.png",
                 "url": "https://www.facebook.com/profile.php?id=61574428552177",
