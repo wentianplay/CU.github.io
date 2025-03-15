@@ -86,13 +86,13 @@
             },
             {
                 "name": "YouTube 媒体",
-                "icon": "./assets/siteIcons/YouTube.png",
+                "icon": "./assets/siteIcons/YouTube.ico",
                 "url": "https://www.youtube.com/@WenTianPlay",
                 "describe": "苏天彬 YouTube.com"
             },
             {
                 "name": "X 媒体",
-                "icon": "./assets/siteIcons/X.png",
+                "icon": "./assets/siteIcons/X.ico",
                 "url": "https://x.com/WenTianPlay",
                 "describe": "苏天彬 X.COM"
             },
