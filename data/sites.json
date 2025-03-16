@@ -109,6 +109,12 @@
                 "describe": "苏天彬 facebook.COM"
             },
             {
+                "name": "twitter 媒体",
+                "icon": "./assets/siteIcons/twitter.jpg",
+                "url": "http://twitter.com/WenTianPlay",
+                "describe": "苏天彬 twitter.COM"
+            },
+            {
                 "name": "KOOK-天彬 频道",
                 "icon": "./assets/siteIcons/kook.png",
                 "url": "https://www.kookapp.cn/app/invite/6GcFWj",
