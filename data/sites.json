@@ -73,13 +73,13 @@
         "icon": "",
         "data": [
             {
-                "name": "哔哩哔哩中国版 媒体",
+                "name": "哔哩哔哩中国 媒体",
                 "icon": "./assets/siteIcons/bilibili.png",
                 "url": "https://bilibili.WenTianPlay.com",
                 "describe": "苏天彬 bilibili.com"
             },
             {
-                "name": "哔哩哔哩国际版 媒体",
+                "name": "哔哩哔哩国际 媒体",
                 "icon": "./assets/siteIcons/bilibili.png",
                 "url": "https://www.bilibili.tv/en/space/2095553040",
                 "describe": "苏天彬 bilibili.tv"
